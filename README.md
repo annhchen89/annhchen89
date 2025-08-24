@@ -1,5 +1,15 @@
-## Hi there 👋
+## <p align="center">Hi👋, I'm Ann Chen</p>
 
+## 💻 About me
+* 🌱 I'm currently pursuing my Master's in Computer Science at University of Illinois at Urbana-Champagin.
+* ⚡ Actively seeking for 2026 summer internship.
+  
+
+## 💡 Skills & Technologies
+#### Languages
+TypeScript, JavaScript, Python, C#, HTML, CSS
+#### Frameworks & Libraries
+React.js, ASP.Net, Tailwind CSS
 <!--
 **annhchen89/annhchen89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
