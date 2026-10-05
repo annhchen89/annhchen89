@@ -2,12 +2,12 @@
 
 ## 💻 About me
 * 🌱 I'm currently pursuing my Master's in Computer Science at University of Illinois at Urbana-Champagin.
-* ⚡ Actively seeking for 2026 summer internship.
+* ⚡ Actively seeking for 2027 Full time SWE opportunities.
   
 
 ## 💡 Skills & Technologies
 #### Languages
-TypeScript, JavaScript, Python, C#, HTML, CSS
+TypeScript, JavaScript, Python, C#, HTML, CSS, Golang, C++
 #### Frameworks & Libraries
 React.js, ASP.Net, Tailwind CSS
 <!--
